@@ -1,0 +1,23 @@
+.nav-item{
+    background-color: brown;
+    color: white;
+    border-radius: 8px;
+    border: 1px;
+    border-color: black;
+
+}
+.tamano_logo{
+    width: 30px;
+    height: 30px;
+    align-items: flex-start;
+}
+nav{
+    display: flex;
+
+}
+.derecha{
+    display: flex;
+}
+.direccion{
+    flex-direction: row;
+}
